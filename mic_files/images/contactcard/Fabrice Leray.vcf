@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.5//EN
+N:Leray;Fabrice;;;
+FN:Fabrice Leray
+ORG:Matt Immo Conseil;
+EMAIL;type=INTERNET;type=HOME;type=pref:fabrice@mattimmoconseil.fr
+TEL;type=CELL;type=VOICE;type=pref:06 19 97 23 09
+item1.URL;type=pref:https://mattimmoconseil.fr
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
